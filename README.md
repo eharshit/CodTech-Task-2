@@ -44,5 +44,6 @@ The cart page displays the products added by the user. Users can adjust quantiti
 
 ## Output Image
 ![Home page](https://github.com/user-attachments/assets/7830d345-218b-44ec-9657-c642a3d2f0df)
+![Cart page](https://github.com/user-attachments/assets/18c59463-4c7e-4891-a3cd-71019d6f4f0d)
 
 
