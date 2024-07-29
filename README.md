@@ -42,24 +42,7 @@ The contact page allows users to get in touch with the company for any inquiries
 ## Cart
 The cart page displays the products added by the user. Users can adjust quantities, remove items, and proceed to checkout.
 
-## Footer
-The footer includes contact information, social media links, and additional navigation links such as About Us, Delivery Information, Privacy Policy, Terms & Conditions, and Contact Us.
-
-# How to Use
-
-## Add a Product to the Cart
-1. Navigate to the product page.
-2. Click on the "Add to Cart" icon.
-3. The product will be added to the cart.
-
-## View and Manage Cart
-1. Click on the cart icon in the top right corner.
-2. Adjust quantities or remove products as needed.
-3. Proceed to checkout.
-
-## Subscribe to Newsletter
-1. Scroll down to the footer section.
-2. Enter your email address in the "Your E-mail address" field.
-3. Click the "Sign up" button to subscribe to the newsletter.
+## Output Image
+![Home page](https://github.com/user-attachments/assets/7830d345-218b-44ec-9657-c642a3d2f0df)
 
 
